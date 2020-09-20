@@ -15,3 +15,7 @@ The process followed in the software to generate the configuration for the bot i
 Then, it runs a loop over the NextState and FeedbackControl functions to obtain the csv for animation.
 
 The last part of the code is to plot the error vs time and the error plots.
+
+#### Result
+
+<img src="Media/Error Plot.png" width="400">
