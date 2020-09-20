@@ -18,4 +18,4 @@ The last part of the code is to plot the error vs time and the error plots.
 
 #### Result
 
-<img src="Media/Error Plot.png" width="400">
+<img src="Media/Error Plot.png" width="600">
